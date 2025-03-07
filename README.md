@@ -33,7 +33,7 @@ Este projeto simula um sistema automotivo controlado por joysticks e comunicaç�
 
 ### Comandos para controlar a miniatura de carro elétrico
 
-![Diagrama do Sistema]("C:\Users\Rian Linhares\Documents\TCC\comando_carrinho.png")
+![Diagrama do Sistema]("xbox.png")
 
 ## Contribuição
 
