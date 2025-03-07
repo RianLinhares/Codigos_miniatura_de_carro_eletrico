@@ -33,7 +33,7 @@ Este projeto simula um sistema automotivo controlado por joysticks e comunicaç�
 
 ### Comandos para controlar a miniatura de carro elétrico
 
-![Diagrama do Sistema]("[https://github.com/RianLinhares/Codigos_miniatura_de_carro_eletrico/blob/main/comando_carrinho.png](https://raw.githubusercontent.com/RianLinhares/Codigos_miniatura_de_carro_eletrico/refs/heads/main/comando_carrinho.png)")
+![Diagrama do Sistema]("https://raw.githubusercontent.com/RianLinhares/Codigos_miniatura_de_carro_eletrico/refs/heads/main/comando_carrinho.png")
 
 ## Contribuição
 
