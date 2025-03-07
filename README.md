@@ -32,8 +32,7 @@ Este projeto simula um sistema automotivo controlado por joysticks e comunicaç�
 5. A interface gráfica exibirá o estado das luzes e setas.
 
 ### Comandos para controlar a miniatura de carro elétrico
-
-![Diagrama do Sistema]("https://raw.githubusercontent.com/RianLinhares/Codigos_miniatura_de_carro_eletrico/refs/heads/main/comando_carrinho.png")
+![Comando para controlar a miniatura de carro elétrico](https://raw.githubusercontent.com/RianLinhares/Codigos_miniatura_de_carro_eletrico/refs/heads/main/comando_carrinho.png)
 
 ## Contribuição
 
