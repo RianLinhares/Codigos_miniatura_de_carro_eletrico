@@ -12,8 +12,8 @@ Este projeto simula um sistema automotivo controlado por joysticks e comunicaç�
 
 ## Requisitos
 
-- Python 3.x
-- Bibliotecas: `pygame`, `paho-mqtt`
+- Python 3.11.9
+- Bibliotecas: `pygame`, `paho-mqtt`, `PyQt5`
 - Microcontroladores: ESP32, Arduinos
 - Módulos: MCP2515 para comunicação CAN
 
